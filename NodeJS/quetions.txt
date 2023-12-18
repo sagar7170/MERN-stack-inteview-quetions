@@ -1,0 +1,21 @@
+what is nodejs 
+why we use nodejs 
+How nodejs run javascript without browser
+what is client and server side rendering
+what is difference between nodejs and javascript
+can we access Dom in nodejs?
+what is express js how it differ from nodejs
+what is callbacks
+what is callback hell and how to avoid it
+what is premiss
+what is single and multi threaded language
+what is sync and async programing
+what is madules 
+what is fs madule
+Explain the difference between “require” and “import” in Node.js.
+what is middleware and how it is usefull
+What is the difference between setTimeout and setImmediate in Node.js?
+what is streams
+How can you handle errors in Node.js applications?
+Explain the concept of event-driven programming in Node.js
+What is a Memory Leak and How Can You Prevent It in Node.js?

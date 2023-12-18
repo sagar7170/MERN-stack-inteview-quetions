@@ -1,0 +1,44 @@
+what is javascript
+what is scripting language
+what is v8 engine 
+difference between let,const,var
+what is what is hoisting in js
+How let const var hoist
+what is difference between undefined and null
+difference between while and forloop 
+What are the data types in JavaScript?
+what is Primitive vs reference data types
+what is spread and rest operators and therse differences
+what is array and object destructring
+dot vs bracket notation 
+what is difference between functions expression and functions declaraton
+what is difference between arrow functions and normal functions
+what is this keyword and how it behave with arrow functions and normal functions
+explain call, apply , bind methods
+what is lexical scope
+forEach ,forin ,foroff methods
+difference between forin and foroff
+map methods
+difference between forEach and map
+explain reduce methods
+what is splice method
+what is slice method
+difference between slice and splice methods
+what is clousers
+“==” and “===” difference in javascript
+How to iterate over “objects” in javascript
+settimeout vs setinterval difference
+is javascript syncronous or asyncronous lamguage
+how can we achieve asyncronous operations in javascript
+what is callback functions
+self invoking functions
+what is pure and unpure functions
+what is promiss, async await
+what is axios
+what is json
+what is DOM
+what is ajax
+what is jquery
+what is optional chaining
+what is proto and protype
+what is Event loop in javascript

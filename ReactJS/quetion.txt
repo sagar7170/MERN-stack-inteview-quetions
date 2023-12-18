@@ -1,0 +1,34 @@
+what is reacjs and its feature
+what is jsx
+what is components
+How to create components in reacjs
+what is difference between functional and class components
+what is virtual DOM and its different from real dom
+what is state
+how to state in functional and class components
+what is props
+what is prop drilling
+what is difference between state and props
+can we pass props from child to prents?
+What is the significance of the ‘key’ prop in React?
+What is the purpose of the ‘ref’ attribute in React?
+What is reacjs hooks
+How to manupulate DOM in reacjs
+Explain is useState hook
+Explain is useEffect hook
+Explain is useReducer hook
+Explain is useRef hook
+Explain is usememo hook
+Explain is useReducer hook
+Explain is useCallback hook
+what is react lifecyle 
+what is lifecyle methods
+How we achieve lifecyle in functional components
+how useEffect replaces class components lifecyle methods
+what is Debouncing and throttling
+control and uncontrol components in reacjs
+what do we manage state in reacjs
+what is useContext 
+what is redux
+difference between useContext and redux
+Difference b/W usestate and useref
