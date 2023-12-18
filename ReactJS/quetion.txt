@@ -32,3 +32,4 @@ what is useContext
 what is redux
 difference between useContext and redux
 Difference b/W usestate and useref
+custom hooks
