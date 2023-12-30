@@ -3,6 +3,7 @@ what is scripting language
 what is v8 engine 
 difference between let,const,var
 what is what is hoisting in js
+what is temporal dead zone?
 How let const var hoist
 what is difference between undefined and null
 difference between while and forloop 
