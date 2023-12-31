@@ -5,6 +5,7 @@ what is components
 How to create components in reacjs
 what is difference between functional and class components
 what is virtual DOM and its different from real dom
+what is Reconciliation 
 what is state
 how to state in functional and class components
 what is props
