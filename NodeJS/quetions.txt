@@ -8,6 +8,7 @@ what is express js how it differ from nodejs
 what is callbacks
 what is callback hell and how to avoid it
 what is premiss
+what is REST API
 what is single and multi threaded language
 what is sync and async programing
 what is madules 
