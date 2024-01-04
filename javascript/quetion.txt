@@ -2,6 +2,7 @@ what is javascript
 what is scripting language
 what is v8 engine 
 difference between let,const,var
+what is "use strict" in javascript
 what is what is hoisting in js
 what is temporal dead zone?
 How let const var hoist
