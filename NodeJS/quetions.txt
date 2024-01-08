@@ -21,3 +21,4 @@ How can you handle errors in Node.js applications?
 Explain the concept of event-driven programming in Node.js
 What is a Memory Leak and How Can You Prevent It in Node.js?
 cookies vs local storage vs session storage 
+what backend and fronend developer do
