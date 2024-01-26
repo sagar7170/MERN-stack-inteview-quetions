@@ -18,7 +18,7 @@ what is difference between arrow functions and normal functions
 what is this keyword and how it behave with arrow functions and normal functions
 explain call, apply , bind methods
 what is lexical scope
-forEach ,forin ,foroff methods
+forEach ,forin ,forof methods
 difference between forin and foroff
 map methods
 difference between forEach and map
@@ -35,6 +35,7 @@ how can we achieve asyncronous operations in javascript
 what is callback functions
 self invoking functions
 what is pure and unpure functions
+higher order functions in javascript
 what is promiss, async await
 what is axios
 what is json
