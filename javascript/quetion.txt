@@ -46,3 +46,4 @@ what is optional chaining
 what is proto and protype
 what is Event loop in javascript
 difference b/w for , for of , for in , forEach ?
+higher order functions 
