@@ -47,3 +47,6 @@ what is proto and protype
 what is Event loop in javascript
 difference b/w for , for of , for in , forEach ?
 higher order functions 
+ways to add js in html file
+textContent and innerHTML
+Static vs Live List
